@@ -117,7 +117,7 @@ https://5e14.dnd.su/homebrew/items/17895-amulet-zashhitnika-prirody/
 
 *Пояснение*: Второй абзац без изменений. Невнятная формулировка первого абзаца вызывает споры и разногласия, поэтому была упрощена.
 
-### 6.	Послание (https://dnd.su/spells/256-sending/).
+### 7.	Послание (https://dnd.su/spells/256-sending/).
 
 *Изменение*: https://5e14.dnd.su/homebrew/spells/12286-myslennyi-razgovor/
 
