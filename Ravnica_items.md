@@ -25,6 +25,7 @@
 - [Бонус к заклинаниям (друид)](https://5e14.dnd.su/homebrew/items/17895-amulet-zashhitnika-prirody/)
 - [Бонус к заклинаниям (волшебник)](https://5e14.dnd.su/items/2213-arcane-grimoire/)
 - [Бонус к заклинаниям (чародей)](https://5e14.dnd.su/items/2489-bloodwell-vial/)
+- [Прицел для огнестрела](https://5e14.dnd.su/homebrew/items/20270-snaiperskii-pricel/)
 
 *Пояснение*: стоимость этих предметов зависит от редкости (необычная - 300 зм, редкая - 3000 зм, очень редкая - 30000 зм). 
 
@@ -61,6 +62,7 @@
 - [Жемчужина силы](https://next.dnd.su/items/16008-pearl-of-power/)
 - [Свиток заклинания (1, 2 или 3 уровень)](https://next.dnd.su/items/17771-spell-scroll-level-3/)
 - [Медальон затягивающихся ран](https://next.dnd.su/items/16012-periapt-of-wound-closure/)
+- [Прицел для арбалета](https://5e14.dnd.su/homebrew/items/17245-usilitel-mexanizma-natiazeniia/)
 
 Отдельно выделю гильдейские печатки. 
 Возможность их взять и настроиться будет бесплатная у каждого персонажа из соответствующей гильдии. 
