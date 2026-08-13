@@ -38,7 +38,7 @@
 - [Зелье невидимости](https://next.dnd.su/items/16034-potion-of-invisibility/)
 - [Крылатые сапоги](https://5e14.dnd.su/items/117-winged-boots/)
 - [Камень удачи](https://5e14.dnd.su/items/82-stone-of-good-luck/)
-- [Камни послания](https://5e14.dnd.su/items/84-sending-stones/) (позволяет использовать [Мысленный разговор])(https://5e14.dnd.su/homebrew/spells/12286-myslennyi-razgovor/)
+- [Камни послания](https://5e14.dnd.su/items/84-sending-stones/) (позволяет использовать [Мысленный разговор](https://5e14.dnd.su/homebrew/spells/12286-myslennyi-razgovor/))
 - [Ночные очки](https://next.dnd.su/items/15947-goggles-of-night/)
 - [Эльфийский плащ](https://next.dnd.su/items/15885-cloak-of-elvenkind/)
 - [Эльфийские сапоги](https://next.dnd.su/items/15859-boots-of-elvenkind/)
