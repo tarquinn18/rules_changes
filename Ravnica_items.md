@@ -62,7 +62,6 @@
 - [Жемчужина силы](https://next.dnd.su/items/16008-pearl-of-power/)
 - [Свиток заклинания (1, 2 или 3 уровень)](https://next.dnd.su/items/17771-spell-scroll-level-3/)
 - [Медальон затягивающихся ран](https://next.dnd.su/items/16012-periapt-of-wound-closure/)
-- [Прицел для арбалета](https://5e14.dnd.su/homebrew/items/17245-usilitel-mexanizma-natiazeniia/)
 
 Отдельно выделю гильдейские печатки. 
 Возможность их взять и настроиться будет бесплатная у каждого персонажа из соответствующей гильдии. 
@@ -89,6 +88,7 @@
 - [Наручи защиты](https://next.dnd.su/items/15867-bracers-of-defense/)
 - [Плащ мифаллара](https://next.dnd.su/items/17501-mythallar-cloak/)
 - [Кольцо уклонения](https://next.dnd.su/items/16052-ring-of-evasion/)
+- [Прицел для арбалета](https://5e14.dnd.su/homebrew/items/17245-usilitel-mexanizma-natiazeniia/)
 
 
 ## Импланты Симиков
