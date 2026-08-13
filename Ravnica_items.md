@@ -1,19 +1,25 @@
 # Ниже представлен список магических предметов и имплантов Симиков, которые будут доступны в течение кампейна "Равника: время перемен".
 
+## Доступность предметов в продаже
+В продаже всегда доступны доспехи и оружие из [статьи](https://next.dnd.su/inventory/weapons-and-armor), а также все необычные предметы и предметы необычного качества из списка переменной редкости.
+Так как Равника чуть более продвинутый сеттинг, из огнестрелов имеются:
+- вместо пистоли револьвер (те же характеристики, но куб урона к8, перезарядка действием после 6 выстрелов), 
+- вместо мушкета - винтовка (те же характеристики, но Мастерство: Отвлекающее вместо Замедляющего и плюс свойство Тяжелое).
+
 ## Магические предметы
 ### 1.	Переменная редкость
 - [Оружие](https://next.dnd.su/items/16167-weapon-1-2-or-3/)
 - [Обмотки (монах)](https://next.dnd.su/items/16174-wraps-of-unarmed-power/)
-- https://next.dnd.su/items/16095-shield-1-2-or-3/
-- https://5e14.dnd.su/homebrew/items/17292-kolco-povyseniia-xarakteristiki/
-- https://5e14.dnd.su/items/2488-all-purpose-tool/
-- https://next.dnd.su/items/16083-rod-of-the-pact-keeper/
-- https://5e14.dnd.su/items/2126-amulet-of-the-devout/
-- https://5e14.dnd.su/items/2133-rhythm-makers-drum/
-- https://5e14.dnd.su/items/2211-moon-sickle/
-- https://5e14.dnd.su/homebrew/items/17895-amulet-zashhitnika-prirody/
-- https://5e14.dnd.su/items/2213-arcane-grimoire/
-- https://5e14.dnd.su/items/2489-bloodwell-vial/
+- [Щит]https://next.dnd.su/items/16095-shield-1-2-or-3/
+- [Увеличение характеристики] https://5e14.dnd.su/homebrew/items/17292-kolco-povyseniia-xarakteristiki/
+- [Фокусировка] https://5e14.dnd.su/items/2488-all-purpose-tool/
+- [Бонус к заклинаниям (колдун)] https://next.dnd.su/items/16083-rod-of-the-pact-keeper/
+- [Бонус к заклинаниям (жрец/паладин)] https://5e14.dnd.su/items/2126-amulet-of-the-devout/
+- [Бонус к заклинаниям (бард)] https://5e14.dnd.su/items/2133-rhythm-makers-drum/
+- [Бонус к заклинаниям (следопыт)] https://5e14.dnd.su/items/2211-moon-sickle/
+- [Бонус к заклинаниям (друид)] https://5e14.dnd.su/homebrew/items/17895-amulet-zashhitnika-prirody/
+- [Бонус к заклинаниям (волшебник)] https://5e14.dnd.su/items/2213-arcane-grimoire/
+- [Бонус к заклинаниям (чародей)] https://5e14.dnd.su/items/2489-bloodwell-vial/
 
 *Пояснение*: стоимость этих предметов зависит от редкости (необычная - 300 зм, редкая - 3000 зм, очень редкая - 30000 зм).
 Персонаж, владеющий навыком Тайной магии, может поднять уровень редкости на 1, для этого ему нужно потратить определенное количество времени и денег (частью долгого отдыха или во время коротких отдыхов): 10 дней и 1700 зм для редкого, 20 дней и 17000 для очень редкого. 
