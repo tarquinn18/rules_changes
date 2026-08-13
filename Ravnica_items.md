@@ -3,7 +3,7 @@
 ## Магические предметы
 ### 1.	Переменная редкость
 - [Оружие](https://next.dnd.su/items/16167-weapon-1-2-or-3/)
-- https://next.dnd.su/items/16174-wraps-of-unarmed-power/
+- [Обмотки (монах)](https://next.dnd.su/items/16174-wraps-of-unarmed-power/)
 - https://next.dnd.su/items/16095-shield-1-2-or-3/
 - https://5e14.dnd.su/homebrew/items/17292-kolco-povyseniia-xarakteristiki/
 - https://5e14.dnd.su/items/2488-all-purpose-tool/
